@@ -4,7 +4,6 @@ import numpy as np
 np.random.seed(42)
 
 
-# TODO: Fill in code in the function below to implement a gradient descent
 # step for linear regression, following a squared error rule. See the docstring
 # for parameters and returned variables.
 def MSEStep(X, y, W, b, learn_rate=0.005):
@@ -25,6 +24,11 @@ def MSEStep(X, y, W, b, learn_rate=0.005):
     """
 
     # Fill in code
+    y_new = np.matmul(X, W) + b
+    error = y - y_new
+
+    W_new = W + learn_rate * np.matmul(error, X)
+    b_new = b + learn_rate * error.sum()
 
     return W_new, b_new
 
