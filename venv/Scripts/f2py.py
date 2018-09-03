@@ -1,4 +1,4 @@
-#!C:\Users\Tomas\PycharmProjects\nano_degree_DS\venv\Scripts\python.exe
+#!c:\users\tomas\pycharmprojects\nano_degree_ds\venv\scripts\python.exe
 # See http://cens.ioc.ee/projects/f2py2e/
 from __future__ import division, print_function
 
