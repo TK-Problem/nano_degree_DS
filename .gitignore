@@ -1,4 +1,6 @@
 \venv
-\Deep_learning\Lesson_5\Cat_Dog_data
-\Deep_learning\Lesson_5\F_MNIST_data
-\Deep_learning\Lesson_5\MNIST_data
+Deep_learning/Lesson_5/Cat_Dog_data
+Deep_learning/Lesson_5/F_MNIST_data
+Deep_learning/Lesson_5/MNIST_data
+
+.idea/workspace.xml
