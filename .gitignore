@@ -3,6 +3,7 @@ Deep_learning/Lesson_5/Cat_Dog_data
 Deep_learning/Lesson_5/F_MNIST_data
 Deep_learning/Lesson_5/MNIST_data
 Deep_learning/Project/flowers
-
+.ipynb_checkpoints
 
 .idea/workspace.xml
+/Deep_learning/Lesson_5/test.png
