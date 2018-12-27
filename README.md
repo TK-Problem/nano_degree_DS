@@ -10,24 +10,71 @@ Files are organized in following folders.
 
 ## 1. Supervised Learning
 
+### Lesson 2
+
+**Linear Regression**. Folder contains:
+
+* `Quiz_16` manual implementation of mini-batch gradient descent,
+* `Quiz_18` linear regression implementation using sklearn package,
+* `Quiz_20` multiple Linear Regression implementation using sklearn package,
+* `Quiz_25` polynomial Regression using sklearn package,
+* `Quiz_27` L1 regularization using sklearn package,
+* `Quiz_28` Standard scaler implementation using sklearn package.
+
+### Lesson 3
+
+### Lesson 4
+
+### Lesson 5
+
+### Lesson 6
+
+### Lesson 7
+
+### Lesson 8
+
+### Lesson 9
+
+### Project #1
+
 ## 2. Deep Learning
 
+### Lesson 1
+
+### Lesson 2
+
+### Lesson 4
+
+### Lesson 5
+
+### Project #2
+
 ## 3. Unsupervised Learning
+
+### Lesson 1
+
+### Lesson 2
+
+### Lesson 3
+
+### Lesson 4
+
+### Lesson 5
+
+### Project #3
 
 ## 4. Data Science process
 
 ### Lesson 1
 
-**CRISP-DM** (Cross Industry Process for Data Mining). Stack exchange survey data was analyzed. Folder contains 
-Jupyter notebooks about:
-
-* Data exploration,
-* Data preparation,
-* Modeling,
-* Evaluate results.
+**CRISP-DM** (Cross Industry Process for Data Mining). Folder contains Jupyter notebooks about data exploration, preparation, modeling and evaluating results. In all notebooks stack overflow survey data was analyzed. 
 
 In `Putting It All Together.ipynb` notebook, Linear Regression model is used to identify most important salary 
 predicting features. 
+
+### Project #4
+
+Blog post about X was written (add link). Data processing code is available on separate Github repo (add link).
 
 ## 5. Software Engineering
 
@@ -57,6 +104,11 @@ In this lesson, example code was refactored to increase performance and readabil
 
 ### Lesson 4
 
-Machine learning pipeline.
+Machine Learning (ML) pipeline. In `grid_search.ipynb` notebook, ML pipeline with Feature union and Grid search was built to classify twitter text messages. Other notebooks contain examples of different parts of ML pipeline.
+
+## Documents
+
+`Data+Scientist+Nanodegree+Syllabus.pdf` contains syllabus for Data Scientist nanodegree and `ud123-git-keyterms.pdf`
+contains description of key terms for Git version control.
 
 # Requirements
