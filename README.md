@@ -24,7 +24,7 @@ Jupyter notebooks about:
 * Data exploration,
 * Data preparation,
 * Modeling,
-* Evaluating results.
+* Evaluate results.
 
 In `Putting It All Together.ipynb` notebook, Linear Regression model is used to identify most important salary 
 predicting features. 
