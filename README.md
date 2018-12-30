@@ -12,7 +12,7 @@ Files are organized in following folders.
 
 ### Lesson 2
 
-**Linear Regression**. Folder contains:
+**Linear Regression**.
 
 * `Quiz_16` manual implementation of mini-batch gradient descent,
 * `Quiz_18` linear regression implementation using sklearn package,
@@ -23,19 +23,60 @@ Files are organized in following folders.
 
 ### Lesson 3
 
+**Perception algorithm**.
+
+* `Quiz_7` simple quiz, which asks to set weights and bias to correctly determine the AND operation,
+* `Quiz_9` manual implementation of perception algorithm.
+
 ### Lesson 4
+
+**Decision tree**
+
+* `Quiz_16` manually calculated information gain for given `ml-bugs.csv` dataset,
+* `Quiz_18` decision tree implementation using sklearn,
+* `Quiz_19` titanic survival data study using sklearn decision trees model.
 
 ### Lesson 5
 
+**Naive Bayes**
+
+* `Quiz_15` Naive Bayes implementation using scikit-learn for spam classifier. 
+
 ### Lesson 6
+
+**Support vector machines**
+
+* `Quiz_17` Support vector machines implementation in sklearn.
 
 ### Lesson 7
 
+**Ensemble methods**
+
+* `Quiz_12` Bagging, RandomForest, AdaBoost classifiers implementation using scikit-learn for spam classifier. 
+
 ### Lesson 8
+
+**Model evaluation metrics**
+
+* `Quiz_3` calculate the accuracy using sklearn.metrics,
+* `Quiz_16` accuracy score evaluation for spam classifier using Bagging, RandomForest, AdaBoost classifiers,
+* `Quiz_18` manual implementations for r2 score, mean square error and mean absolute error.
 
 ### Lesson 9
 
+**Training and tuning models**
+
+* `Quiz_10` example of improving model using Grid search,
+* `Quiz_12` diabetes case study using various sklearn classifiers and grid search.
+
 ### Project #1
+
+**Finding Donors for CharityML**
+
+* `finding_donors.ipynb` is final submited notebook
+* `cencus.csv` the project dataset,
+* `visuals.py` additional Python script provided by Udacity which adds supplementary visualizations for the project.
+
 
 ## 2. Deep Learning
 
