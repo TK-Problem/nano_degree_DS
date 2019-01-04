@@ -119,15 +119,38 @@ Image classification project- build and train PyTorch convolution network to cla
 
 ### Lesson 1
 
+**Clustering**
+
+K-means implementation using sklearn package. Examples, how results are affected by changing k-means parameters. Also, the importance of feature scaling is shown. 
+
 ### Lesson 2
+
+**Hierarchical and density based clustering**
+
+* `Quiz_7` Hierarchical clustering implemented on [Iris dataset](https://archive.ics.uci.edu/ml/datasets/iris),
+* `Quiz_13` DBSCAN (density based spatial-clustering applications with noise) implementation on various datasets.
 
 ### Lesson 3
 
+**Gaussian mixture models and clustering validation**
+
+* `Quiz_21` GMM (Gaussian mixture models) vs K-means on generated dataset. Visual illustration how results are affected by different unsupervised learning approaches.
+
 ### Lesson 4
+
+**Dimensionality reduction**
+
+Various examples of PCA (principle component analysis) are provided.
 
 ### Lesson 5
 
+**Random projection**
+
+`Independent Component Analysis Lab.ipynb` shows how ICA (independent component analysis) can be used to filter out 3 instruments from noisy dataset.
+
 ### Project #3
+
+Unsupervised learning techniques are applied on Bertelsmann partners AZ Direct and Arvato Finance Solution customer dataset. In this project project population was grouped into various customer segments.
 
 ## 4. Data Science process
 
@@ -140,7 +163,7 @@ predicting features.
 
 ### Project #4
 
-Blog post about X was written (add link). Data processing code is available on separate Github repo (add link).
+[Blog post](https://medium.com/@t.uzdavinys/statistical-analysis-of-nba-odds-how-to-not-lose-money-betting-on-basketball-bc41fe239561) about NBA odds was written. Data processing code is available on separate [Github](https://github.com/TK-Problem/Interesting_Sport_Stats) repo.
 
 ## 5. Software Engineering
 
@@ -171,6 +194,12 @@ In this lesson, example code was refactored to increase performance and readabil
 ### Lesson 4
 
 Machine Learning (ML) pipeline. In `grid_search.ipynb` notebook, ML pipeline with Feature union and Grid search was built to classify twitter text messages. Other notebooks contain examples of different parts of ML pipeline.
+
+# 7. Experimental Design & Recommendations
+
+### Lesson 1
+
+
 
 ## Documents
 
