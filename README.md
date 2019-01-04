@@ -1,8 +1,8 @@
 # Udacity Data Scientist Nano Degree
 
-Personal repo for projects for Udacity Nano degree.
+Personal repo for projects Udacity data scientist nano-degree.
 
-PATH to venv python interpreter "...\venv\Scripts\python.exe"
+PATH to venv python interpreter `"...\venv\Scripts\python.exe"`
 
 # Project structure
 
@@ -73,7 +73,7 @@ Files are organized in following folders.
 
 **Finding Donors for CharityML**
 
-* `finding_donors.ipynb` is final submited notebook
+* `finding_donors.ipynb` is final submitted notebook
 * `cencus.csv` the project dataset,
 * `visuals.py` additional Python script provided by Udacity which adds supplementary visualizations for the project.
 
@@ -82,13 +82,38 @@ Files are organized in following folders.
 
 ### Lesson 1
 
+**Introduction to Neural Networks**
+
+* `Quiz_21` manual implementation of cross-entropy equation,
+* `Quiz_27` manual Gradient Descent Algorithm implementation,
+* `Quiz_36` predicting student admissions using manually implemented neural networks.
+
 ### Lesson 2
+
+**Implementing Gradient Decent**
+
+* `Quiz_4` manual gradient decent implementation using sigmoid and sigmoid prime functions,
+* `Quiz_5` implementing gradient decent using numpy,
+* `Quiz_6` manual neural network multilayer implementation,
+* `Quiz_7` backpropagation calculation,
+* `Quiz_8` manual backpropagation implementation.
 
 ### Lesson 4
 
+**Keras package**
+
+* `Quiz_2` create basic Keras multilayer model,
+* `Quiz_8` classify IMDB review data using Keras.
+
 ### Lesson 5
 
+**PyTorch package**
+
+Folder contains iPython notebooks, where PyTorch package is used to classify images (MNIST fashion and handwritten numbers training dataset).
+
 ### Project #2
+
+Image classification project- build and train PyTorch convolution network to classify 106 types of flowers.
 
 ## 3. Unsupervised Learning
 
@@ -153,3 +178,5 @@ Machine Learning (ML) pipeline. In `grid_search.ipynb` notebook, ML pipeline wit
 contains description of key terms for Git version control.
 
 # Requirements
+
+Requirements are available at `requirements.txt` file.
