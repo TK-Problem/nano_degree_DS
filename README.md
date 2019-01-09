@@ -195,11 +195,15 @@ In this lesson, example code was refactored to increase performance and readabil
 
 Machine Learning (ML) pipeline. In `grid_search.ipynb` notebook, ML pipeline with Feature union and Grid search was built to classify twitter text messages. Other notebooks contain examples of different parts of ML pipeline.
 
+### Project #5
+
 # 7. Experimental Design & Recommendations
 
-### Lesson 1
+### Lesson 3
 
+**Statistical considerations in testing**
 
+Folder contains notebooks with examples how to calculate *p*-values for different tests, how to decide on experiment size and when to stop it if needed.
 
 ## Documents
 
