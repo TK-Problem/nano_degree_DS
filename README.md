@@ -205,6 +205,12 @@ Machine Learning (ML) pipeline. In `grid_search.ipynb` notebook, ML pipeline wit
 
 Folder contains notebooks with examples how to calculate *p*-values for different tests, how to decide on experiment size and when to stop it if needed.
 
+### Lesson 6
+
+**Introduction to recommendation engines**
+
+Notebooks analyze movie review data and provide recommendations for users based on Similarity (Pearson's correlation coefficient and Euclidean distance) or Neighborhood Based Collaborative Filtering (recommends similar movies user already watched) .
+
 ## Documents
 
 `Data+Scientist+Nanodegree+Syllabus.pdf` contains syllabus for Data Scientist nanodegree and `ud123-git-keyterms.pdf`
