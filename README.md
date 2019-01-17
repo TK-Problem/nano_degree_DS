@@ -211,6 +211,18 @@ Folder contains notebooks with examples how to calculate *p*-values for differen
 
 Notebooks analyze movie review data and provide recommendations for users based on Similarity (Pearson's correlation coefficient and Euclidean distance) or Neighborhood Based Collaborative Filtering (recommends similar movies user already watched) .
 
+### Lesson 7
+
+**Matrix Factorization for Recommendations**
+
+Investigates various SVD (Singular Value Decomposition) techniques:
+
+* `1_Intro_to_SVD.ipynb` shows how to transform data into matrices for SVD,
+* `2_Implementing_Funk_SVD.ipynb` creates FunkSVD functions which performs matrix factorization using a basic form of FunkSVD with no regularization,
+* `3_How_Are_We_doing.ipynb` for training FunkSVD model, we split data into training and valication datasets, when prediction functions is written,
+* `4_Cold_Start_Problem.ipynb` prediction function is expanded so it could handle new users (no ratings available hence we just recommend top movies) and new movies (similar movies are recommended).
+
+
 ## Documents
 
 `Data+Scientist+Nanodegree+Syllabus.pdf` contains syllabus for Data Scientist nanodegree and `ud123-git-keyterms.pdf`
