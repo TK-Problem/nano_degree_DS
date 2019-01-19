@@ -197,6 +197,8 @@ Machine Learning (ML) pipeline. In `grid_search.ipynb` notebook, ML pipeline wit
 
 ### Project
 
+In this project a website for classifying disaster response message was created. Whole project is available in separate [Github repo](https://github.com/TK-Problem/Disaster_Response_Website). In this folder one can find jupyter notebooks for testing data preparation and machine learning pipelines.
+
 # 7. Experimental Design & Recommendations
 
 ### Lesson 3
