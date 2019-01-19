@@ -224,6 +224,15 @@ Investigates various SVD (Singular Value Decomposition) techniques:
 * `3_How_Are_We_doing.ipynb` for training FunkSVD model, we split data into training and valication datasets, when prediction functions is written,
 * `4_Cold_Start_Problem.ipynb` prediction function is expanded so it could handle new users (no ratings available hence we just recommend top movies) and new movies (similar movies are recommended).
 
+### Project
+
+Recommendation engine for [IBM Watson Platform](https://dataplatform.cloud.ibm.com/). In `Recommendations_with_IBM.ipynb`:
+
+* Rank-based Recommendations,
+* User-User Based Collaborative Filtering,
+* Content Based Recommendations
+
+are implemented.
 
 ## Documents
 
