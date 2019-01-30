@@ -206,7 +206,7 @@ In this project a website for classifying disaster response message was created.
 **Statistical considerations in testing**
 
 Folder contains notebooks with examples how to calculate *p*-values for different tests, how to decide on experiment size and when to stop it if needed.
-
+z
 ### Lesson 6
 
 **Introduction to recommendation engines**
