@@ -234,6 +234,10 @@ Recommendation engine for [IBM Watson Platform](https://dataplatform.cloud.ibm.c
 
 are implemented.
 
+# 8. Capstone project
+
+
+
 ## Documents
 
 `Data+Scientist+Nanodegree+Syllabus.pdf` contains syllabus for Data Scientist nanodegree and `ud123-git-keyterms.pdf`
