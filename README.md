@@ -238,9 +238,11 @@ are implemented.
 
 In this capstone project, demographics data for customers of a mail-order sales company in Germany were analyzed and compared against demographics information for the general population. 
 
-* `Arvato_Project_Part_1.ipynb` data analysis is conducted,
+* `Arvato_Project_Part_1.ipynb` data exploration and analysis,
 * `Arvato_Project_Part_2.ipynb` supervised learning model is applied to predict potential mailing customers,
-* `Custoemr_segmentation report.ipynb` 
+* `Customer_segmentation report.ipynb` report on clusters of potential customers types.
+
+Data is not provided on on Github repository.
 
 ## Documents
 
